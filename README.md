@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neelpatel
-- Checkout (Mywebiste)[https://portfolio.neelbuilds.com/]
+- Checkout [Website](https://portfolio.neelbuilds.com/)
 - 👀 I’m interested in building and deploying websites
 - 🌱 I’m currently learning React, Java, Linux and Devops
 - 💞️ I’m looking to collaborate on any of the tech projetc open to learn and explore
