@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neelpatel
 - Checkout [My Website](https://neelbuilds.com/)
-- 👀 I’m interested in building and deploying websites
+- 👀 I’m interested in building and deploying products
 - 🌱 I’m currently learning Next JS 
 - 💞️ I’m looking to collaborate on any of the tech projetc open to learn and explore
 - 📫 How to reach me?- Just email me on neel_patel2004@outlook.com
