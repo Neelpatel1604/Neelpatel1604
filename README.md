@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS Cloud Automation 
 - 💞️ I’m looking to collaborate on any of the tech projects, open to learn and explore
 - 📫 How to reach me?- Just email me on neel_patel2004@outlook.com
-- ⚡ Fun fact: In free time listening "AllIn Podcast".
+- ⚡ Fun fact: In free time listening "All-In Podcast".
 
 <!---
 Neelpatel1604/Neelpatel1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
