@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neelpatel
-- 🌍 Checkout [My Website](https://neelbuilds.com/) ( Note: Site is currently a 'legacy' version; a major update is coming to reflect my recent work in AI and Cloud Leadership!)
+- 🌍 Checkout [My Website](https://neelbuilds.com/)
 - 👀 I’m interested in building and deploying products
 - 🌱 I’m currently learning AWS Cloud Automation 
 - 💞️ I’m looking to collaborate on any of the tech projects, open to learn and explore
