@@ -3,7 +3,7 @@
 - 👀 I’m interested in building and deploying products
 - 🌱 I’m currently learning AWS Cloud Automation 
 - 💞️ I’m looking to collaborate on any of the tech projects, open to learn and explore
-- 📫 How to reach me?- Just email me on neel_patel2004@outlook.com
+- 📫 How to reach me?- Just email me on neelvp2004@gmail.com
 - ⚡ Fun fact: In free time listening "All-In Podcast".
 
 <!---
