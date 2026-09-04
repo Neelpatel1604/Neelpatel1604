@@ -7,6 +7,7 @@ currently shipping Memanto, an open-source memory layer for AI agents.
 - 🔭 Currently building AI infrastructure across AWS, GCP, on-prem, and edge
 - 🌱 Exploring deeper into agentic systems and MCP tooling
 - 👥 Leading the AWS Student Builder Group at Sheridan (700+ members)
+- 🎧 All-In Podcast
 - 🌍 More at [neelbuilds.com](https://neelbuilds.com)
 - 📫 Reach me at neelvp2004@gmail.com
 
