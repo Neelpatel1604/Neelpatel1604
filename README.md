@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Neelpatel
-- 🌍 Checkout [My Website](https://neelbuilds.com/)
-- 👀 I’m interested in building and deploying products
-- 🌱 I’m currently learning AWS Cloud Automation / AI Infra 
-- 💞️ I’m looking to collaborate on any of the tech projects, open to learn and explore
-- 📫 How to reach me?- Just email me on neelvp2004@gmail.com
-- ⚡ Fun fact: In free time listening "All-In Podcast".
+### Hi, I'm Neel 👋
+
+AI Infrastructure Engineer building RAG pipelines, agentic systems, and 
+the serverless/edge infra they run on. Founding Engineer at Moorcheh — 
+currently shipping Memanto, an open-source memory layer for AI agents.
+
+- 🔭 Currently building AI infrastructure across AWS, GCP, on-prem, and edge
+- 🌱 Exploring deeper into agentic systems and MCP tooling
+- 👥 Leading the AWS Student Builder Group at Sheridan (700+ members)
+- 🌍 More at [neelbuilds.com](https://neelbuilds.com)
+- 📫 Reach me at neelvp2004@gmail.com
 
 <!---
 Neelpatel1604/Neelpatel1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
