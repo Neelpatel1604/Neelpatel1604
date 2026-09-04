@@ -1,7 +1,7 @@
 ### Hi, I'm Neel 👋
 
 AI Infrastructure Engineer building RAG pipelines, agentic systems, and 
-the serverless/edge infra they run on. Founding Engineer at Moorcheh — 
+the serverless/edge infra they run on. Founding Engineer at Moorcheh - 
 currently shipping Memanto, an open-source memory layer for AI agents.
 
 - 🔭 Currently building AI infrastructure across AWS, GCP, on-prem, and edge
